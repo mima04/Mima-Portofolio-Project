@@ -5,7 +5,7 @@
 - [x] **Python** - 
   - World Population by Country 2023 <br />
   *Complete Project Analysis:* **[Python](https://colab.research.google.com/drive/1T_hiB6UsZJCflIG5hapwmgSLRhzKV3fw?usp=sharing) [CANVA](https://canva.link/fw4cvzlax5asc9a)**<br />
-    [Example of Python World Population by Country](Python 2024 Example.png)
+    [Example of Python World Population by Country]([Python 2024 Example.png](https://github.com/mima04/Mima-Portofolio-Project/blob/main/Python%202024%20Example.png?raw=true))
 
 - [x] **Power BI** -
   - CD Dashboard <br />
