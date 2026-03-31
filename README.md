@@ -1,1 +1,14 @@
-# Mima-Portofolio-Project
+# Mima's Portfolio Projects
+## This following project is my project in Python and Power BI <br />
+#### *This is my Linkedin profile: [Sharon Yemima](www.linkedin.com/in/sharon-yemima-91b2b21b0)* <br />
+
+- [x] **Python** - 
+  - World Population by Country 2023 <br />
+  *Complete Project Analysis:* **[Python](https://colab.research.google.com/drive/1T_hiB6UsZJCflIG5hapwmgSLRhzKV3fw?usp=sharing) [CANVA](https://canva.link/fw4cvzlax5asc9a)**<br />
+    [Example of Python World Population by Country](Python 2024 Example.png)
+
+- [x] **Power BI** -
+  - CD Dashboard <br />
+  [CD Dashboard](PA-CD Dashboard.png)
+  - Drifing Safety & Map Dashboard <br />
+  [Driving & Map Dashboard](Driving safety & Map Dashboard.png)
