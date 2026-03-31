@@ -5,10 +5,10 @@
 
 - [x] **Python** - 
   - World Population by Country 2023 <br />
-  *Complete Project Analysis:* **[Python](https://colab.research.google.com/drive/1T_hiB6UsZJCflIG5hapwmgSLRhzKV3fw?usp=sharing) [CANVA](https://canva.link/fw4cvzlax5asc9a)**<br />
+  *Complete Project:* **[Python](https://colab.research.google.com/drive/1T_hiB6UsZJCflIG5hapwmgSLRhzKV3fw?usp=sharing) [CANVA](https://canva.link/fw4cvzlax5asc9a)**<br />
     <img width="1690" height="787" alt="Python 2024 Example" src="https://github.com/user-attachments/assets/00c5fbfb-0180-425a-a6a8-864d8b01d39c" />
   - Synthetic Financial Datasets For Fraud Detection <br />
-  *Complete Project Analysis:* **[Python](https://colab.research.google.com/drive/10_r3ORaNj-geWGAZZUMywO3U5pjCCr4c?usp=sharing)**<br />
+  *Complete Project:* **[Python](https://colab.research.google.com/drive/10_r3ORaNj-geWGAZZUMywO3U5pjCCr4c?usp=sharing)**<br />
   <img width="1401" height="821" alt="Synthetic Financial Dash" src="https://github.com/user-attachments/assets/080792c4-3cb2-4df8-a25f-2cc6e5eff592" />
 
 
