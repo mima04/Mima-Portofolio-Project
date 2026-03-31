@@ -9,8 +9,8 @@
     <img width="1690" height="787" alt="Python 2024 Example" src="https://github.com/user-attachments/assets/00c5fbfb-0180-425a-a6a8-864d8b01d39c" />
 
 - [x] **Power BI** -
-  - 1. CD Dashboard <br />
+  - CD Dashboard <br />
   <img width="1722" height="750" alt="PA - CD Dashboard" src="https://github.com/user-attachments/assets/e9ac966c-208a-4c7b-a044-cbfb98111c64" />
-  - 2. Drifing Safety & Map Dashboard <br />
+  - CD Dashboard <br />
   <img width="1727" height="751" alt="Driving safety   Map Dashboard" src="https://github.com/user-attachments/assets/1396da5c-e799-423f-85c0-d2c63182bef9" />
 
