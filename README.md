@@ -5,11 +5,11 @@
 - [x] **Python** - 
   - World Population by Country 2023 <br />
   *Complete Project Analysis:* **[Python](https://colab.research.google.com/drive/1T_hiB6UsZJCflIG5hapwmgSLRhzKV3fw?usp=sharing) [CANVA](https://canva.link/fw4cvzlax5asc9a)**<br />
-    [Example of Python World Population by Country]([Python 2024 Example.png](https://github.com/mima04/Mima-Portofolio-Project/blob/main/Python%202024%20Example.png?raw=true))
+    <img width="1690" height="787" alt="Python 2024 Example" src="https://github.com/user-attachments/assets/00c5fbfb-0180-425a-a6a8-864d8b01d39c" />
 
 - [x] **Power BI** -
   - CD Dashboard <br />
-  [CD Dashboard](PA-CD Dashboard.png)
+  <img width="1722" height="750" alt="PA - CD Dashboard" src="https://github.com/user-attachments/assets/e9ac966c-208a-4c7b-a044-cbfb98111c64" />
   - Drifing Safety & Map Dashboard <br />
-  [Driving & Map Dashboard]<img width="1727" height="751" alt="Driving safety   Map Dashboard" src="https://github.com/user-attachments/assets/1396da5c-e799-423f-85c0-d2c63182bef9" />
+  <img width="1727" height="751" alt="Driving safety   Map Dashboard" src="https://github.com/user-attachments/assets/1396da5c-e799-423f-85c0-d2c63182bef9" />
 
