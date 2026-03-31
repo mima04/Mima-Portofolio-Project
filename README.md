@@ -1,5 +1,6 @@
 # Mima's Portfolio Projects
 ## This following project is my project in Python and Power BI <br />
+#### Data-driven Industrial Engineering student focused on analytics, process improvement, and business insights using Excel, Power BI, and statistical methods.
 #### *This is my Linkedin profile: [Sharon Yemima](www.linkedin.com/in/sharon-yemima-91b2b21b0)* <br />
 
 - [x] **Python** - 
