@@ -17,4 +17,6 @@
   <img width="1722" height="750" alt="PA - CD Dashboard" src="https://github.com/user-attachments/assets/e9ac966c-208a-4c7b-a044-cbfb98111c64" />
   - Drifing Safety & Map Dashboard <br />
   <img width="1727" height="751" alt="Driving safety   Map Dashboard" src="https://github.com/user-attachments/assets/1396da5c-e799-423f-85c0-d2c63182bef9" />
+  - Synthetic Financial Datasets For Fraud Detection <br />
+  <img width="1692" height="726" alt="Synthetic Financial PBI" src="https://github.com/user-attachments/assets/419a8da3-ba8c-4f4e-9d1c-55d6d97d49c5" />
 
