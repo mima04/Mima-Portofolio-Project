@@ -13,7 +13,7 @@
   <img width="1401" height="821" alt="Synthetic Financial Dash" src="https://github.com/user-attachments/assets/080792c4-3cb2-4df8-a25f-2cc6e5eff592" />
 
 
-- [x] **Power BI**
+- [x] **Power BI** -
   - CD Dashboard <br />
   <img width="1722" height="750" alt="PA - CD Dashboard" src="https://github.com/user-attachments/assets/e9ac966c-208a-4c7b-a044-cbfb98111c64" />
   - Drifing Safety & Map Dashboard <br />
