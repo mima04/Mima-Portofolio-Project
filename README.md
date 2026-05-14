@@ -21,3 +21,8 @@
   - Synthetic Financial Datasets For Fraud Detection <br />
   <img width="1692" height="726" alt="Synthetic Financial PBI" src="https://github.com/user-attachments/assets/419a8da3-ba8c-4f4e-9d1c-55d6d97d49c5" />
 
+####To wrap up my recent works, I’ve earned this certification to further solidify my expertise.
+|**Project**|**Solution**|
+|-----------------------|----------------------|
+|PowerBI| [Certificate]([https://github.com/chandrikadeb7/FreeCodeCamp-Projects/blob/master/Arithmetic%20Formatter/arithmetic_arranger.py](https://media.licdn.com/dms/image/v2/D562DAQEujlISeB3N1w/profile-treasury-image-shrink_1280_1280/B56Z0vf8zTJIAU-/0/1774618400845?e=1779350400&v=beta&t=wxHRGpYzVGQ-_tLwH8ELryt8538Q0K0oDGmgo-ADhzQ))|
+|x| [x]()|
