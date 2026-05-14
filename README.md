@@ -21,8 +21,8 @@
   - Synthetic Financial Datasets For Fraud Detection <br />
   <img width="1692" height="726" alt="Synthetic Financial PBI" src="https://github.com/user-attachments/assets/419a8da3-ba8c-4f4e-9d1c-55d6d97d49c5" />
 
-####To wrap up my recent works, I’ve earned this certification to further solidify my expertise.
+####To wrap up my recent works, I’ve earned this certification to solidify my expertise further.
 |**Project**|**Solution**|
 |-----------------------|----------------------|
-|PowerBI| [Certificate]([https://media.licdn.com/dms/image/v2/D562DAQEujlISeB3N1w/profile-treasury-image-shrink_1280_1280/B56Z0vf8zTJIAU-/0/1774618400845?e=1779350400&v=beta&t=wxHRGpYzVGQ-_tLwH8ELryt8538Q0K0oDGmgo-ADhzQ])|
+|PowerBI| [Certificate]([[https://media.licdn.com/dms/image/v2/D562DAQEujlISeB3N1w/profile-treasury-image-shrink_1280_1280/B56Z0vf8zTJIAU-/0/1774618400845?e=1779350400&v=beta&t=wxHRGpYzVGQ-_tLwH8ELryt8538Q0K0oDGmgo-ADhzQ]](https://www.udemy.com/certificate/UC-3d1b0c36-6619-43c3-959c-5bc6e87d3552/))|
 |x| [x]()|
