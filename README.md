@@ -26,3 +26,4 @@
 |-----------------------|----------------------|
 |PowerBI| [Certificate](https://www.udemy.com/certificate/UC-3d1b0c36-6619-43c3-959c-5bc6e87d3552/)|
 |Data Analysis with Python| [Certificate](https://www.freecodecamp.org/certification/sharonyemima/data-analysis-with-python-v7)|
+|Python Certification| [Certificate](https://www.freecodecamp.org/certification/sharonyemima/python-v9)|
